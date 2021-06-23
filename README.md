@@ -1,7 +1,7 @@
 # Velcome!
 
 I am caught and seemingly have been for the past 8 years in the dry cycle of e-commerce.
-This means I noodle a lot on inventory systems, skus, back-end dev, and the works... Probably.
+This means I noodle a lot on inventory systems, skus, back-end api's, and so much more... Probably.
 Outside of that (but, still in computing),
 I love to build small/replaceable things,
 fiddle with Docker/container images,
