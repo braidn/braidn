@@ -9,7 +9,7 @@ push serverless bits to their maximum RPC nature,
 and explore the boundaries of type systems.
 
 My physical loves are keyboards and prime camera lenses... OH!
-I also work at wonderful beauty startup called [Glossier][glos].
+I also work at a wonderful beauty startup named [Glossier][glos] (pronounced Gloss-ee-eh).
 If you want to discuss anything, [my dm's on Twitter][twit] are always open.
 You can also [ask me just about anything][ama] if you prefer more space to interact (>280 chars)
 
