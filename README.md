@@ -3,9 +3,10 @@
 I am caught and seemingly have been for the past 8 years in the dry cycle of e-commerce.
 This means I noodle a lot on inventory systems, skus, back-end dev, and the works... Probably.
 Outside of that (but, still in computing),
-I am love to build small/replacable things,
-fiddle with docker images,
-and push the boundaries of type systems.
+I love to build small/replacable things,
+fiddle with Docker/container images,
+push serverless bits to their maximum RPC nature,
+and explore the boundaries of type systems.
 
 My physical loves are keyboards and prime camera lenses... OH!
 I also work at wonderful beauty startup called [Glossier][glos].
