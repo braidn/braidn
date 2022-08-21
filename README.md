@@ -8,10 +8,10 @@ fiddle with Docker/container images,
 push serverless bits to their maximum RPC nature,
 and explore the boundaries of type systems.
 
-My physical loves are keyboards, bags, and prime camera lenses... OH!
-I also work at a wonderful community focused startup named: [Orbit][orb].
+My physical loves are keyboards, bags, and prime camera lenses... OH! the most important thing:
+_I am open to new roles_ in Infrastructure, Devops and Backend Engineering.
 If you want to discuss anything, [my dm's on Twitter][twit] are always open.
-You can also [ask me just about anything][ama] if you prefer more space to interact (>280 chars)
+You can also [ask me just about anything on GitHub][ama] if you prefer more space to interact (>280 chars)
 
 [orb]: https://www.orbit.love/
 [twit]: https://twitter.com/braidn
