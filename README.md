@@ -5,7 +5,7 @@ IRL, I collect keyboards, obsess over bags, and shoot with prime lenses.
 
 _Open to_ Infrastructure, DevOps, or Full‑Stack roles. DMs on [Mastodon][mast] are open, or ping me in a [GitHub issue][ama] if you prefer async.
 
-- Tech: Go, TypeScript, Node.js, PostgreSQL, Redis, Containers, Kubernetes, Terraform, Cloudflare, AWS 
+- Tech: Ruby, Go, TypeScript, Node.js, PostgreSQL, Redis, Containers, Kubernetes, Terraform, Cloudflare, AWS 
 - Interests: Observability, CI/CD, edge compute, event‑driven systems, domain modeling
 - Links: Mastodon: [@braidn][mast] • Website/Blog: [cloudbacon.com][blog]
 
