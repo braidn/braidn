@@ -1,18 +1,15 @@
 # Hey-Oh!
 
-I am caught and seemingly have been for the past 8 years in the dry cycle of e-commerce.
-This means I noodle on inventory systems, SKUs, back-end API's, and so much more... Probably.
-Outside of that (but, still in computing),
-I love to build small/replaceable things,
-fiddle with infrastructure and container images,
-push serverless functions to their maximum RPC nature,
-and explore the boundaries of type systems.
+For the past 20ish years, I’ve been happily stuck in the gears of finance and e‑commerce: inventory models, SKUs, and the APIs that make them go. I like small, composable tools, tidy container images, and serverless functions that behave like finely tuned RPC endpoints. I’m also the person who gets a little too excited about type systems.
+IRL, I collect keyboards, obsess over bags, and shoot with prime lenses.
 
-My physical loves are keyboards, bags, and prime camera lenses... OH! the most important thing:
-_I am open to new roles_ in Infrastructure, Devops and FullStack Engineering.
-If you want to discuss anything, <a rel="me" href="https://ruby.social/@braidn">toot into my dm's on Mastodon</a>.
-They are always open.
-You can also [ask me just about anything on GitHub][ama] if you prefer to interact in an async manner.
+_Open to_ Infrastructure, DevOps, or Full‑Stack roles. DMs on [Mastodon][mast] are open, or ping me in a [GitHub issue][ama] if you prefer async.
 
-[orb]: https://www.orbit.love/
-[ama]: https://github.com/braidn/ama/issues/new
+- Tech: Go, TypeScript, Node.js, PostgreSQL, Redis, Containers, Kubernetes, Terraform, Cloudflare, AWS 
+- Interests: Observability, CI/CD, edge compute, event‑driven systems, domain modeling
+- Links: Mastodon: [@braidn][mast] • Website/Blog: [cloudbacon.com][blog]
+
+
+[mast]: https://ruby.social/@braidn
+[blog]: https://cloudbacon.com
+[ama]: https://github.com/braidn/ama/issues
